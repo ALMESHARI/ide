@@ -38,7 +38,7 @@ nav{
         margin-left: 7px;
 }
 .code-section {
-        height: 45vh;
+        min-height: 45vh;
         width: 100%;
         background-color: rgb(56, 56, 56);
         color: rgb(43, 184, 43);
@@ -62,7 +62,7 @@ nav{
 
 }
 .console-section{
-        height: 45vh;
+        min-height: 45vh;
         width: 100%;
         background-color: rgb(23, 22, 22);
         color: rgb(255, 255, 255);
