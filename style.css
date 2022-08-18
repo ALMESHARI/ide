@@ -47,8 +47,7 @@ nav{
         resize: none;
         margin: 0;
         padding: 6px;
-        border: 0;
-        border-top:solid ;
+        border-top: solid black;
 }
 
 .seperating{
@@ -60,9 +59,7 @@ nav{
         display: flex;
         justify-content: center;
         align-items: center;
-        border: 2px solid rgb(43, 184, 43);
-        border-left: 0;
-        border-right: 0;
+
 }
 .console-section{
         height: 45vh;
